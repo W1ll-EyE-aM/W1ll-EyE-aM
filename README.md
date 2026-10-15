@@ -1,6 +1,6 @@
 # Hey, I'm Will! 👋
 
-📍 Based in Augsburg, Germany 🇩🇪
+📍 Based in Germany 🇩🇪
 
 Working in IT by day, creative tinkerer by night (and occasionally by day, too).
 
