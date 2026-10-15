@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey, I'm Will! 👋
 
-<!--
-**W1ll-EyE-aM/W1ll-EyE-aM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Based in Augsburg, Germany 🇩🇪
 
-Here are some ideas to get you started:
+Working in IT by day, creative tinkerer by night (and occasionally by day, too).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about **technology, connecting people, and turning random ideas into actual projects**. Big fan of open source, decentralization, privacy, sustainability, and making complicated things simple.
+
+### 🚀 What I'm up to
+- 🤝 **Social connection projects** – Bringing people together in real life, not just collecting digital friends.
+- 💃 **[WestieWatch](https://westiewatch.de)** – Making life easier for West Coast Swing dancers, one notification at a time.
+- ⚡ **Bitcoin & Lightning** – Running my own node, exploring decentralization, and occasionally convincing hardware to cooperate.
+- 🛠️ **Self-hosting & automation** – Docker, Linux, Raspberry Pi, NAS, and probably too many containers.
+
+### 🎭 Beyond the keyboard
+📸 Photography | 💃 West Coast Swing | 🏍️ Motorcycles | 🖨️ 3D Printing | 🌱 Plant-based living
+
+### 💡 What drives me
+**Independent software. Connected people.**
+
+*I have a habit of turning "Wouldn't it be cool if..." into another GitHub repository.*
+
+☕🍻 **Always up for a coffee, a beer. Shoot me a message!**
+
+🌐 [will-eye-am.de](https://www.will-eye-am.de)
