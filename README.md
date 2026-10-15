@@ -1,25 +1,21 @@
 # Hey, I'm Will! 👋
 
-📍 Based in Germany 🇩🇪
+💻 IT, self-hosting addict & occasional bug creator.
+I enjoy building things, breaking things, fixing things, and pretending that was the plan all along.
 
-Working in IT by day, creative tinkerer by night (and occasionally by day, too).
-
-I'm passionate about **technology, connecting people, and turning random ideas into actual projects**. Big fan of open source, decentralization, privacy, sustainability, and making complicated things simple.
+Passionate about **open source, automation, decentralization, privacy, and software that actually makes life easier.**
 
 ### 🚀 What I'm up to
-- 🤝 **Social connection projects** – Bringing people together in real life, not just collecting digital friends.
-- 💃 **[WestieWatch](https://westiewatch.de)** – Making life easier for West Coast Swing dancers, one notification at a time.
-- ⚡ **Bitcoin & Lightning** – Running my own node, exploring decentralization, and occasionally convincing hardware to cooperate.
-- 🛠️ **Self-hosting & automation** – Docker, Linux, Raspberry Pi, NAS, and probably too many containers.
+- 🤝 Building software that connects people.
+- ⚡ Exploring Bitcoin, Lightning & decentralized tech.
+- 🐳 Running my own homelab with probably too many containers.
 
-### 🎭 Beyond the keyboard
-📸 Photography | 💃 West Coast Swing | 🏍️ Motorcycles | 🖨️ 3D Printing | 🌱 Plant-based living
+### 🛠️ Tech Playground
+`Python` `Django` `Docker` `Linux` `PostgreSQL` `Git` `APIs` `Raspberry Pi`
 
-### 💡 What drives me
+### 💡 My Philosophy
 **Independent software. Connected people.**
 
-*I have a habit of turning "Wouldn't it be cool if..." into another GitHub repository.*
+*Turning "Wouldn't it be cool if..." into yet another GitHub repository.*
 
-☕🍻 **Always up for a coffee, a beer. Shoot me a message!**
-
-🌐 [will-eye-am.de](https://www.will-eye-am.de)
+☕🍺 Always up for a coffee, a beer. Shoot me a message!
